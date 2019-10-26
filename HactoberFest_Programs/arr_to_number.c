@@ -14,3 +14,4 @@ int main(){
 	printf("\nThe number is: %d\n",number);
 return 0;
 }
+
