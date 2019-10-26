@@ -19,4 +19,5 @@ int main(){
    printf("%d",numArr[9]);
 
    return 0;
+   
 }
