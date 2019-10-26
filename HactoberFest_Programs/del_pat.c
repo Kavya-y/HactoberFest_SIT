@@ -26,3 +26,4 @@ int main(){
 	puts(new_str);
 	return 0;
 }
+
