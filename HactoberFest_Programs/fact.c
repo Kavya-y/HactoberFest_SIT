@@ -13,3 +13,4 @@ int main(){
 	printf("\nFactorial of %d is : %d\n",num,res);
 	return 0;
 }
+
