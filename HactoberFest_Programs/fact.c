@@ -6,7 +6,7 @@ int fact(int num){
 		return num* fact(num-1);
 }
 int main(){
-	int num;
+	int num=0;
 	printf("\nEnter the number: ");
 	scanf("%d",&num);
 	int res=fact(num);
