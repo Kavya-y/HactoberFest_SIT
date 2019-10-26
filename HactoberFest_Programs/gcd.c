@@ -8,6 +8,7 @@ int gcd(int a,int b){
 }
 
 }
+	
 return gcd1;
 }
 int main(){
