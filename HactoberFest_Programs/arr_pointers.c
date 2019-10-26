@@ -6,3 +6,4 @@ int main() {
 	printf("\n Address of array = %p %p %p %p", arr, &arr[0], &arr,* p+2);
 	return 0;
 } 
+
